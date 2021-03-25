@@ -1,0 +1,38 @@
+.jags{
+    width: 100%;
+    height: 30px;
+    background-color: blue; 
+}
+.got{
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+}
+.leo{
+    width: 100%;
+    height: 400px;
+    background: url(img24.jpg);
+}
+h3{
+    position: relative;
+    top: 200px;
+    color: whitesmoke;
+}
+a{
+    color: whitesmoke;
+}
+.us{
+    width: 100%;
+    height: 800px;
+    background-color: #fffdd0;
+}
+button{
+    width: 200px;
+    height: 50px;
+}
+}
+.bus{
+    width: 100%;
+    height: 250px;
+    background-color:#fffdd0; 
+}
